@@ -1,0 +1,17 @@
+{
+    "development":{
+        "host"     : "localhost",
+        "user"     : "root",
+        "password" : "r1101kcn",
+        "database" : "acd_extr",
+        "charset"  : "utf8_spanish_ci"
+        },
+ 
+    "production":{
+        "host"     : "localhost",
+        "user"     : "root",
+        "password" : "r1101kcn",
+        "database" : "acd_extr",
+        "charset"  : "utf8_spanish_ci"
+    }
+}
